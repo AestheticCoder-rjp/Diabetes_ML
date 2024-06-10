@@ -1,0 +1,8 @@
+pandas
+streamlit
+streamlit.components.v1
+PIL
+plotyly.express
+sklearn.model_selection
+sklearn.ensemble
+sklearn.metrics
